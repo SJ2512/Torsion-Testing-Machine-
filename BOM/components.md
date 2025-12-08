@@ -6,3 +6,4 @@
 ## wood for mechanical structure and installation 
 ## L clamps 
 ## m3 and m4 screws 
+## Lipo battery 11.1v 45c to 50c 
