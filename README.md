@@ -1,10 +1,10 @@
-# Torsion Testing Machine (Current-Based Torque Estimation)
+# Torsion Testing Machine (Current-Based Torque and torsional analysis)
 
 A compact torsion test rig that estimates torque using motor current (ACS712-30A) and measures twist angle with a rotary encoder. The setup uses a BTS7960 motor driver, Arduino Nano, and a 3S LiPo supply. This build demonstrates the core mechanism and electronics for a small-scale torsion tester.
 
 ---
 
-## 🔧 Overview
+## Overview
 
 The system applies twist to a test shaft and measures:
 
@@ -17,7 +17,7 @@ This project focuses on the **working prototype**, electronics, sensing method, 
 
 ---
 
-## 🛠 Hardware Used
+## Hardware Used
 
 - Arduino Nano  
 - BTS7960 motor driver  
@@ -29,7 +29,7 @@ This project focuses on the **working prototype**, electronics, sensing method, 
 
 ---
 
-## 📸 Images
+## Images
 
 See `/images` folder:
 
@@ -39,7 +39,7 @@ See `/images` folder:
 
 ---
 
-## 🎥 Demo
+## Demo
 
 Short demonstration video is also available in the demo folder
 
